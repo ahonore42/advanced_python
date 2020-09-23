@@ -12,7 +12,7 @@ Give these problems a shot!
 
 Feel free to start on any one of these.
 
-## Important Concepts to Consider
+## Important Concepts to Consider:
 1. Recursion
 2. String Mutation / Manipulation
 3. List Mutation / Manipulation
