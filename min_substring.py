@@ -20,13 +20,14 @@
 
 def min_substring(str_lst):
     # code goes here
+    
     return
 
 print(min_substring(["aaffhkksemckelloe", "fhea"]))
-# should print fhea
+# should print affhkkse
 
 print(min_substring(["ahffaksfajeeubsne", "jefaa"]))
-# should print fhea
+# should print aksfaje
 
 print(min_substring(["aaabaaddae", "aed"]))
 # should print dae
